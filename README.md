@@ -4,10 +4,10 @@ The project predicts the winner of soccer matches in the English Premier League 
 
 # Project Steps
 
-Scrape match data using requests, BeautifulSoup, and pandas.
-Clean the data and get it ready for machine learning using pandas.
-Make predictions about who will win a match using scikit-learn.
-Measure error and improve predictions.
+1. Scrape match data using requests, BeautifulSoup, and pandas.
+2. Clean the data and get it ready for machine learning using pandas.
+3. Make predictions about who will win a match using scikit-learn.
+4. Measure error and improve predictions.
 
 # File overview:
 
